@@ -16,3 +16,9 @@
 <h2>View demo</h2>
 <a href="https://vimeo.com/844273515">click here</a>
 
+##contributors:
+-[Eshna Chandani](https://github.com/Eshna08)
+-[PIYALI CHOUDHURY](https://github.com/PiyaliChoudhury)
+
+
+
